@@ -90,5 +90,22 @@
     ],
     "profile": {
         "name": "typicode"
-    }
+    },
+    "user":[
+        {
+            "name":"开发者",
+            "account":"1111",
+            "password":"qazWSX123",
+            "money":100,
+            "id":1
+        }
+    ],
+    "order":[
+        {
+            "user_id":1,
+            "film_id":10,
+            "id":1,
+            "status":"buy"
+        }
+    ]
 }
